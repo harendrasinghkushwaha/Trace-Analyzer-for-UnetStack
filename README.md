@@ -1,0 +1,2 @@
+# Trace-Analyzer-for-UnetStack
+The Trace Analyzer tool has been explicitly created for the underwater network simulator UnetStack trace analysis. When a simulation is performed  in UnetStack, UnetStack produces two files- log/log-0.txt and trace.json  as result  of the simulation. Analyzing these trace file manualy is lenthy and time taking process. The trace Analyzer tool take the trace.json file as an input and process is to extract the performance metrics and then  present in the Grphical ways
