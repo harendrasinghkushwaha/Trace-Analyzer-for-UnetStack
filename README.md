@@ -5,5 +5,6 @@ The UnetStack Trace Analyer tool have been developed on the Ubuntu 20.04. The to
 ## Prerequisites to run the tool
 1. Python should be install in your system
 2. Tkinter should be install in your system <br/>
-Download the code and open folder in the terminal. In folder there are three files - start.py, trace.py, check_sources.py. To start the tool run the start.py file. you will get GUI windo of the tool as shown in the below picture.
+Download the code and open folder in the terminal. In folder there are three files - start.py, trace.py, check_sources.py. To start the tool run the start.py file. you will get GUI windo of the tool as shown in the below picture.<br/>
+![GUI](https://user-images.githubusercontent.com/33829910/175817525-4c3af879-9594-46b0-9adb-bef7d1eb7fff.png)
 
