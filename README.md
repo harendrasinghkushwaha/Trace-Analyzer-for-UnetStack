@@ -1,6 +1,6 @@
 # Trace-Analyzer-for-UnetStack
 The Trace Analyzer tool is developed explicitly for trace analysis for the underwater network simulator UnetStack.  When you run a simulation in UnetStack, it generates two files as a result of the simulation: log/log-0.txt and trace.json. Manually analyzing these trace files to obtain simulation performance metrics is a time-consuming and lengthy process. The trace Analyzer tool takes the trace.json file as an input and then extracts useful data to calculate performance parameters by processing each and every event logged in the trace.json file.   After extracting the necessary data, the Trace Analyzer tool presents the network performance metrics such as throughput, average end-to-end delay, and packet delivery ratio in the form of graphs.
-#  How to Install and Run the Tool
+#  How to Install the Tool
 The UnetStack Trace Analyzer tool has been developed on the Ubuntu 20.04. The tool has been written in Python programming language and the Python’s Tkinter package has been used to create the GUI. To use the tool, you must have Python installed on your system, as well as the Tkinter package from Python.
 Download the code and open the folder in the terminal. In the folder, there are three files - start.py, trace.py, and check_sources.py. To start the tool run the start.py file. you will get the GUI window of the tool as shown in the below picture.
 
